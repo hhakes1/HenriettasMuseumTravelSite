@@ -1,0 +1,15 @@
+h1 {font: normal 3.75em/.5em 'New Times Roman', serif;
+    color: ;
+    text-align: center;}
+h3 {font: normal 2em/.5em 'New Times Roman', serif;
+    color: ;
+    text-align: center;}
+.name{font: normal 2em/.5em 'New Times Roman', serif;
+    color: ;
+    text-align: center;}
+.location {font: normal 1em/.5em 'New Times Roman', serif;
+    color: ;
+    text-align: center;}
+.link-image {display: block;
+    margin-left: auto;
+    margin-right: auto}
